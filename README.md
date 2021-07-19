@@ -32,12 +32,11 @@ https://user-images.githubusercontent.com/13429481/125835080-c4267912-61cb-456a-
 
 # Hints
 
-We want to make sure that the UI matches the mocks as accurately as possible. Storybook offers a few tools that enables us engineers to build seamlessly. Feel free to use the following add-ons for a smooth experience:
-
-The toolbar that's on top of Storybook's canvas:
+We want to make sure that the UI matches the mocks as accurately as possible. Storybook's toolbar located at the top of the canvas:
 ![image](https://user-images.githubusercontent.com/13429481/126205939-3711247a-97f9-4afa-8e04-88edd4608de6.png)
 
 Contains several utilities for inspecting your element's measurements and calculated gap values. Ones worth exploring are:
+
 **The viewport inspector** to toggle the preview of your elements between small mobile (portrait/landscape modes), large mobile (portrait/landscape modes), and full desktop mode.
 
 https://user-images.githubusercontent.com/13429481/126206302-4187890f-730b-4417-9282-8fa788511fed.mov
