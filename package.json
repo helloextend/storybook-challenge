@@ -17,10 +17,16 @@
     "@storybook/addon-actions": "^6.3.4",
     "@storybook/addon-essentials": "^6.3.4",
     "@storybook/addon-links": "^6.3.4",
+    "@storybook/preset-scss": "^1.0.3",
     "@storybook/react": "^6.3.4",
-    "babel-loader": "^8.2.2"
+    "babel-loader": "^8.2.2",
+    "css-loader": "^6.0.0",
+    "sass": "^1.35.2",
+    "sass-loader": "^12.1.0",
+    "style-loader": "^3.1.0"
   },
   "dependencies": {
+    "@storybook/addon-viewport": "^6.3.4",
     "react": "latest",
     "react-dom": "latest"
   }
