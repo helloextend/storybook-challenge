@@ -38,16 +38,13 @@ The toolbar that's on top of Storybook's canvas:
 ![image](https://user-images.githubusercontent.com/13429481/126205939-3711247a-97f9-4afa-8e04-88edd4608de6.png)
 
 Contains several utilities for inspecting your element's measurements and calculated gap values. Ones worth exploring are:
-![image](https://user-images.githubusercontent.com/13429481/126206166-24e3e197-7c12-4b78-a941-d786d663e0d7.png) *The viewport inspector* to toggle the preview of your elements between small mobile (portrait/landscape modes), large mobile (portrait/landscape modes), and full desktop mode.
+**The viewport inspector** to toggle the preview of your elements between small mobile (portrait/landscape modes), large mobile (portrait/landscape modes), and full desktop mode.
 
 https://user-images.githubusercontent.com/13429481/126206302-4187890f-730b-4417-9282-8fa788511fed.mov
 
-![image](https://user-images.githubusercontent.com/13429481/126206398-6d802c98-c462-480d-896d-68851c056904.png) *The element inspector* to inspect the paddings/margin/sizes of the HTML Element that's in-focus/on-hover.
+**The element inspector** to inspect the paddings/margin/sizes of the HTML Element that's in-focus/on-hover.
 
 ![image](https://user-images.githubusercontent.com/13429481/126206627-a50e38da-2a37-48b8-bc26-a3bdf37e67ae.png)
-
-
-
 
 
 
