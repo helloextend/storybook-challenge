@@ -17,10 +17,11 @@ In this challenge, we'd like to re-create the frontend for the protection plan o
 $ yarn
 $ yarn start
 ``` 
-3. Open localhost:6006 on your browser to track your progress.
+3. Open localhost:6006 on your browser to track your progress. There should be a single UI component labeled as "Offers Modal" to preview the state of your changes.
 
 https://user-images.githubusercontent.com/13429481/125835080-c4267912-61cb-456a-b608-b8801e1d1fb8.mov
 
+4. Update the class names, IDs, and/or identifiers on the JSX file as needed inside `OffersModal.jsx`, and customize your styles inside `offers-modal.css`. Good luck!
 
 # Questions / Feedback
 
