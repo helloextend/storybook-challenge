@@ -20,6 +20,7 @@ $ yarn start
 3. Open localhost:6006 on your browser to track your progress. There should be a single UI component labeled as "Offers Modal" to preview the state of your changes.
 
 (Preview of running the CLI to start local development)
+
 https://user-images.githubusercontent.com/13429481/125835080-c4267912-61cb-456a-b608-b8801e1d1fb8.mov
 
 (Preview of what to expect from localhost)
