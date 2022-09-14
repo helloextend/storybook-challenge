@@ -14,11 +14,11 @@
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.14.6",
-    "@storybook/addon-actions": "^6.3.4",
+    "@storybook/addon-actions": "^6.5.10",
     "@storybook/addon-essentials": "^6.3.4",
-    "@storybook/addon-links": "^6.3.4",
+    "@storybook/addon-links": "^6.5.10",
     "@storybook/preset-scss": "^1.0.3",
-    "@storybook/react": "^6.3.4",
+    "@storybook/react": "^6.5.10",
     "babel-loader": "^8.2.2",
     "css-loader": "^6.0.0",
     "sass": "^1.35.2",
@@ -26,7 +26,7 @@
     "style-loader": "^3.1.0"
   },
   "dependencies": {
-    "@storybook/addon-viewport": "^6.3.4",
+    "@storybook/addon-viewport": "^6.5.10",
     "react": "latest",
     "react-dom": "latest"
   }
